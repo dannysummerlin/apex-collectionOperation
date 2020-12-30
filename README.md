@@ -10,3 +10,17 @@ WIP
 This class allows you to create an action in a Lightning Flow in order to perform an operation across multiple records on the same field. For instance if you wanted to add up the **Amount** of **a collection of Opportunities** and add it to their **Campaign** but were out of Rollup fields:
 
 ![Screenshot of the Apex Action](https://i.imgur.com/52CycnP.png)
+
+## Operations
+
+*to be filled out and made more clear in the interface*
+
+* count
+* unique
+* concat
+* sum
+* average
+* max
+* min
+* maxDate
+* minDate
